@@ -88,6 +88,8 @@ if __name__ == "__main__":
     print("Try asking about Apple, Tesla, or Microsoft.")
     print("Type 'exit' to quit.\n")
 
+
+
     while True:
         query = input("You: ")
         if query.lower() == 'exit':
