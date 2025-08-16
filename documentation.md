@@ -3,8 +3,14 @@
 ## 🔍 Project Context
 This chatbot prototype is developed as part of GFC’s initiative with BCG Tech Hub to improve accessibility of complex financial insights. The chatbot uses rule-based logic to answer predefined financial queries about major corporations like Apple, Tesla, and Microsoft based on 10-K data analysis.
 
+
+
+
 ## 👨‍💻 Your Role
 As part of a cross-functional team, my focus was on **implementing the rule-based logic**. This means designing a system that can accurately respond to a fixed set of financial questions using hardcoded logic and extracted data. Other team roles include:
+
+
+
 - **NLP Experts** – Enhance conversational capabilities.
 - **ML Engineers** – Add learning-based adaptability.
 - **UX Designers** – Improve interface and usability.
