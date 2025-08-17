@@ -26,6 +26,8 @@ As part of a cross-functional team, my focus was on **implementing the rule-base
 ## 🧠 Chatbot Logic
 Implemented using simple `if-else` rules in Python:
 
+
+
 ```python
 def simple_chatbot(user_query):
     if user_query == "What is the total revenue?":
