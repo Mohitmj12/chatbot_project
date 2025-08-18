@@ -7,6 +7,7 @@ Bot: Tesla’s net income growth in 2023 was 12.7%.
 User: How does Microsoft’s revenue compare to Apple’s?
 Bot: In 2023, Microsoft had $236 billion in revenue, while Apple had $394.3 billion.
 
+
 User: What is the average revenue growth rate for Apple?
 Bot: Apple’s average revenue growth rate over the last 3 years was 6.3%.
 
@@ -15,6 +16,5 @@ Bot:
 - Apple: $99.8 billion
 - Tesla: $12.6 billion
 - Microsoft: $72.4 billion
-
 User: What is the EBITDA for Apple?
 Bot: Sorry, I can't answer that question yet. I can only respond to predefined financial queries.
